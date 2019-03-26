@@ -51,3 +51,4 @@
 - (CGFloat)displayCornerRadius {
 	return 19;
 }
+%end
